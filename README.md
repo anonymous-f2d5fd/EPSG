@@ -33,5 +33,6 @@ The folder is organised as follows:
 
 How to run
 ---------------
-unzip meetup_ca.zip,meetup_sg.zip in their locations. <\br>
+unzip meetup_ca.zip,meetup_sg.zip in their locations.
+
 `python train.py`
